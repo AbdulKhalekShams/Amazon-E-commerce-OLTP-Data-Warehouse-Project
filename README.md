@@ -224,5 +224,7 @@ sql/03_analysis/03_sample_business_queries.sql
 
 ## Author
 Abdelkhalek Shams
+
+
 Data Analyst
 
