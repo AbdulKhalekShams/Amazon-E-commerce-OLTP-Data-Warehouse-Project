@@ -52,8 +52,6 @@ The goal is to move from operational transaction storage to an analytical model 
 ```text
 amazon-oltp-dwh-project/
 ├── README.md
-├── LICENSE
-├── .gitignore
 ├── docs/
 │   └── erd/
 │       ├── oltp-erd.png
@@ -65,7 +63,6 @@ amazon-oltp-dwh-project/
 │   │   └── 02_create_amazon_dwh.sql
 │   └── 03_analysis/
 │       └── 03_sample_business_queries.sql
-└── assets/
 ```
 
 ---
