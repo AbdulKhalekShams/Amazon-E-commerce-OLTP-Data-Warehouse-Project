@@ -1,0 +1,20 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# SQL Server local files
+*.mdf
+*.ldf
+*.bak
+*.trn
+
+# Dataset files
+*.csv
+*.psv
+*.zip
+
+# Logs / temp
+*.log
+*.tmp
