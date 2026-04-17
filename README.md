@@ -223,8 +223,6 @@ sql/03_analysis/03_sample_business_queries.sql
 ---
 
 ## Author
+Abdelkhalek Shams
+Data Analyst
 
-**Ahmed Omar**  
-Civil Engineer transitioning into Data and BI projects
-
-If you use this repository in your portfolio, feel free to adapt the scripts and structure to your own datasets and reporting needs.
